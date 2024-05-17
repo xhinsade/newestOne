@@ -1,0 +1,330 @@
+
+Username: dgfg
+Student ID: 3453454
+Password: 11
+Budget: 2344
+-----
+
+Username: dfgd
+Student ID: 5343
+Password: 11
+Budget: 1234
+-----
+
+Username: dgfdfg
+Student ID: 45454
+Password: 11
+Budget: 1212
+-----
+
+Username: gvfhfh
+Student ID: 5454
+Password: tt
+Budget: 3434
+-----
+
+Username: gsfdg
+Student ID: 445
+Password: ff
+Budget: 1444
+-----
+
+Username: fghfgh
+Student ID: 56556
+Password: 55
+Budget: 456546
+-----
+
+Username: fgf
+Student ID: 45456
+Password: 33
+Budget: 546546
+-----
+
+Username: ddd
+Student ID: 4536554
+Password: 44
+Budget: 36546
+-----
+
+Username: gfddf
+Student ID: 454
+Password: 55
+Budget: 54564
+-----
+
+Username: gffg
+Student ID: 454
+Password: ff
+Budget: 56756
+-----
+
+Username: dgf
+Student ID: 4654
+Password: gg
+Budget: 45756
+-----
+
+Username: gfdgfd
+Student ID: 56546
+Password: 44
+Budget: 546
+-----
+
+Username: dg
+Student ID: 564654
+Password: fff
+Budget: 45675
+-----
+
+Username: df
+Student ID: 4535
+Password: 55
+Budget: 54756
+-----
+
+Username: tfg
+Student ID: 65
+Password: 55
+Budget: 56
+-----
+
+Username: fgdgfd
+Student ID: 54546
+Password: 55
+Budget: 645
+-----
+
+Username: rfgff
+Student ID: 5435
+Password: ff
+Budget: 5655
+-----
+
+Username: fgfg
+Student ID: 5656
+Password: ff
+Budget: 65765
+-----
+
+Username: fhhgf
+Student ID: 5664
+Password: 55
+Budget: 5656
+-----
+
+Username: fff
+Student ID: 454
+Password: 55
+Budget: 555
+-----
+
+Username: fghgh
+Student ID: 5456
+Password: 55
+Budget: 556
+-----
+
+Username: fff
+Student ID: 56456
+Password: ff
+Budget: 56757
+-----
+
+Username: fdgfd
+Student ID: 456546
+Password: ff
+Budget: 5465
+-----
+
+Username: ffg
+Student ID: 65567
+Password: gg
+Budget: 567567
+-----
+
+Username: cvbf
+Student ID: 54
+Password: 55
+Budget: 56546
+-----
+
+Username: dsgfdg
+Student ID: 4523684732
+Password: 111
+Budget: 34234
+-----
+
+Username: fddfshf
+Student ID: 2324
+Password: 123
+Budget: 43
+-----
+
+Username: fghfgh
+Student ID: 6546
+Password: ff
+Budget: 465
+-----
+
+Username: advggsad
+Student ID: 237542736478
+Password: 11
+Budget: 3274
+-----
+
+Username: sdfd
+Student ID: 20388923
+Password: 11
+Budget: 13254
+-----
+
+Username: sdbfs
+Student ID: 32578432
+Password: hh
+Budget: 77578
+-----
+
+Username: VDB
+Student ID: 46546
+Password: DDD
+Budget: 4564
+-----
+
+Username: dfdg
+Student ID: 354353
+Password: ff
+Budget: 34654
+-----
+
+Username: sdfgdfg
+Student ID: 346456
+Password: dd
+Budget: 654756
+-----
+
+Username: gfgf
+Student ID: 54675
+Password: ff
+Budget: 5454
+-----
+
+Username: fghfgh
+Student ID: 5456
+Password: gg
+Budget: 56756
+-----
+
+Username: ghfh
+Student ID: 54654
+Password: ggg
+Budget: 4564
+-----
+
+Username: fgf
+Student ID: 656
+Password: ff
+Budget: 557567
+-----
+
+Username: gfjnf
+Student ID: 4457567
+Password: 45
+Budget: 4546
+-----
+
+Username: fhfh
+Student ID: 5747567
+Password: hhh
+Budget: 567567
+-----
+
+Username: hgjghgg
+Student ID: 5756
+Password: gg
+Budget: 5675
+-----
+
+Username: gfhf
+Student ID: 5467547
+Password: 55
+Budget: 5555
+-----
+
+Username: gggf
+Student ID: 45646
+Password: ff
+Budget: 45676
+-----
+
+Username: hghfhfg
+Student ID: 5768678
+Password: 44
+Budget: 4656
+-----
+
+Username: hfghgf
+Student ID: 457567
+Password: 67
+Budget: 6757
+-----
+
+Username: fghg
+Student ID: 567567
+Password: 555
+Budget: 546
+-----
+
+Username: fgh
+Student ID: 46546
+Password: 666
+Budget: 647576
+-----
+
+Username: fdhg
+Student ID: 45647
+Password: 555
+Budget: 645
+-----
+
+Username: Katelyn Coming
+Student ID: 20231053
+Password: 123
+Budget: 1500
+-----
+
+Username: Katelyn Coming
+Student ID: 20231053
+Password: 12345678
+Budget: 1500
+-----
+
+Username: Jacob Ranin
+Student ID: 20231990
+Password: 123
+Budget: 1000
+-----
+
+Username: dhgfgh
+Student ID: 447857
+Password: 111
+Budget: 13213423
+-----
+
+Username: hjghj
+Student ID: 346654
+Password: 123
+Budget: 123123
+-----
+
+Username: yryryt
+Student ID: 465546
+Password: 123
+Budget: 34243
+-----
+
+Username: fhftgh
+Student ID: 546456
+Password: 11
+Budget: 235435
+-----
